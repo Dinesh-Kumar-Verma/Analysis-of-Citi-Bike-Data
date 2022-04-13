@@ -12,7 +12,7 @@ https://github.com/Dinesh-Kumar-Verma/Analysis-of-Citi-Bike-Data/blob/main/Data%
 # Technology 👩‍
 Business Intelligence.
 # Domain
-Business Intelligence
+Transportation
 # Tools 🛠
 Tableau and Microsoft Office.
 # Conclusion 💡
